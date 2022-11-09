@@ -11,7 +11,7 @@
 Copy-paste these 3 lines into a terminal. Type `bash install mac.mk` to run the macOS installer
 
 ```
-git clone git@github.com:aisichenko/setup_mac.git
+git clone https://github.com/aisichenko/setup_mac.git
 cd setup_mac
 bash install mac.mk
 ```
