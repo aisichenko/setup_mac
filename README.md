@@ -1,1 +1,1 @@
-# setup_mac
+# Mac setup
