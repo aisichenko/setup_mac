@@ -13,6 +13,7 @@ Copy-paste these 3 lines into a terminal. Type `bash install mac.mk` to run the 
 ```
 git clone https://github.com/aisichenko/setup_mac.git
 cd setup_mac
+bash
 bash install mac.mk
 ```
 
