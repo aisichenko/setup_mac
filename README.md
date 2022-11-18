@@ -17,6 +17,11 @@ bash
 bash install mac.mk
 ```
 
+## Acknowledgements
+
+Credit to Joaquin Matres `install_new_computer` repository which this is based on.
+
+
 ## Other stuff
 
 ### Bluetooth with macbook air
