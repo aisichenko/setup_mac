@@ -4,7 +4,7 @@
 
 1. Make sure xcode is the latest version. You can do this through System Update
 
-2. Starting with Mac OS Catalina, the default shell is `zsh`. Change this to `bash` by following instructions [here](https://support.apple.com/en-us/HT208050). 
+2. Starting with Mac OS Catalina, the default shell is `zsh`. Change this to `bash` by typing `chsh -s /bin/bash` in the terminal and restarting the terminal.
 
 # Installation
 
