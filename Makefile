@@ -4,8 +4,8 @@ software:
 	./colors.sh
 	./brew.sh
 	./pip.sh
-	./conda.sh
 	./fish.sh
+	./conda.sh
 	
 git_config:
 	./git_config.sh
