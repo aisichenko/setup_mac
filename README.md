@@ -1,5 +1,7 @@
 # Install software in a new mac
 
+This installs miniconda3 on mac, which can also be downloaded from [this](https://docs.conda.io/projects/miniconda/en/latest/) website. Check which version of mac you are using, Intel or Apple silicon.
+
 # Requirements
 
 1. Make sure xcode is the latest version. You can do this through System Update
