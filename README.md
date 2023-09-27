@@ -10,7 +10,7 @@ This installs miniconda3 on mac, which can also be downloaded from [this](https:
 
 # Installation
 
-Copy-paste these 3 lines into a terminal. Type `bash install mac.mk` to run the macOS installer
+Copy-paste these lines into a terminal. Type `bash install mac.mk` to run the macOS installer
 
 ```
 git clone https://github.com/aisichenko/setup_mac.git
