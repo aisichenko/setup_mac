@@ -4,9 +4,15 @@ This installs miniconda3 on mac, which can also be downloaded from [this](https:
 
 # Requirements
 
-1. Make sure xcode is the latest version. You can do this through System Update
+1. Make sure xcode is the latest version.
 
-2. Starting with Mac OS Catalina, the default shell is `zsh`. Change this to `bash` by typing `chsh -s /bin/bash` in the terminal and restarting the terminal.
+```
+xcode-select --install
+```
+
+You can do this through System Update
+
+4. Starting with Mac OS Catalina, the default shell is `zsh`. Change this to `bash` by typing `chsh -s /bin/bash` in the terminal and restarting the terminal.
 
 # Installation
 
