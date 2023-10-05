@@ -16,8 +16,6 @@ You can do this through System Update
 
 # Installation
 
-Copy-paste these lines into a terminal. Type `bash install mac.mk` to run the macOS installer
-
 ```
 git clone https://github.com/aisichenko/setup_mac.git
 cd setup_mac
